@@ -1,3 +1,19 @@
+# Created by Igor Kovaliov
+
+## <b>OPTIONS</b>
+
+```
+
+npm install
+npm start
+npm run api
+
+```
+
+<br/>
+<br/>
+<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
